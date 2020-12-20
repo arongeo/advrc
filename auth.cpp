@@ -1,3 +1,4 @@
+// MADE BY mrmalac :: github.com/mrmalac on 2020/12/20
 #include <iostream>
 #include <string>
 #include "hash.h"
