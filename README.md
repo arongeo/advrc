@@ -8,3 +8,5 @@ Advanced Rolling Codes are putting in an extra layer of security by adding datet
 ! You can fork my code, and edit my code, but please provide credit for it. !
 
 By definition if a GitHub repository dosen't have a licence, it is automatically protected by intellectual property/copyright.
+
+Authentication code coming soon.
