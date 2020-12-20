@@ -1,4 +1,4 @@
-# advrc
+# advrc - Advanced Rolling Codes
 Rolling Codes are used in cars to authenticate that you're the one who has the key for it and wants to open the car.
 
 But this can be broken pretty easily by using Samy Kamkar's jamming technique.
