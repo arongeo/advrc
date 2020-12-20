@@ -19,10 +19,10 @@ int main() {
 	fin = strnum + "::" + dateTime();
 	string chash = hashIt(fin);
 	if (chash == inp) {
-		cout << "Opened." << endl;
+		cout << "Hashes match." << endl;
 		writeToFile("authnum.txt", newstrnum);
 	} else {
-		cout << "Not opened." << endl;
+		cout << "Hashes not match." << endl;
 	}
 	return 0;
 }
