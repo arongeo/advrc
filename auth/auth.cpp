@@ -56,6 +56,10 @@ int main() {
 		string part1 = fin.substr(0, 23);
 		string part2 = fin.substr(23, 25);
 		formatStr(part1, part2, inp, newstrnum);
+	} else if (firstnum > 9999) {
+		string part1 = fin.substr(0, 24);
+		string part2 = fin.substr(24, 26);
+		formatStr(part1, part2, inp, newstrnum);
 	} else {
 		string part1 = fin.substr(0, 20);
 		string part2 = fin.substr(20, 21);
